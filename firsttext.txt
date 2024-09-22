@@ -5,3 +5,4 @@ GIT学習します
 ・git add
 ・git commit
 ・あああ
+・iii
