@@ -6,3 +6,4 @@ GIT学習します
 ・git commit
 ・あああ
 ・iii
+・ git diff
