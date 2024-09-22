@@ -1,3 +1,6 @@
 GIT学習します
 
 具体的に学んでいきます
+
+・git add
+・git commit
